@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ythien123456
-- 👀 I’m interested in PHP, Linux, Javascript.
+- 👀 I’m mostly interested in PHP, Linux, both Development and Operation process in a app/website/software life cycle...
 - 🌱 I’m currently learning to be the ultimate DevOps.
 - 📫 How to reach me: Go to my website.
 
