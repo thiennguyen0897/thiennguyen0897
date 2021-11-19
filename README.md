@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ythien123456
-- 👀 I’m interested in PHP, Linux, Pawn, Javascript.
-- 🌱 I’m currently learning Pawn, PHP.
+- 👀 I’m interested in PHP, Linux, Javascript.
+- 🌱 I’m currently learning to be the ultimate DevOps.
 - 📫 How to reach me: Go to my website.
 
 <!---
