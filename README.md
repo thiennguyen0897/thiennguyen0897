@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thiennguyen0897
-- 👀 I’m interested in PHP, Linux, both Development and Operation process in a app/website/software life cycle...
+- 👀 I’m interested in Web Development, Linux, both Development and Operation process in a app/website/software life cycle...
 - 🌱 I’m up for freelance work for most of the time. Ready to face challenges.
 - 📫 How to reach me: Go to my website.
 
